@@ -1,0 +1,42 @@
+Enter the no of transactions in input file
+format of transactions:
+1 AMOUNT SENDER (here Dexter is receiver)
+2 AMOUNT SENDER RECEIVER
+
+abs
+Block :1
+Block Hash:cbdf53dce3843344e50218001d57d1649dd369516ff0a7d0aa021aa12c34fc16
+Block merkelRoot:Hash@6e5e91e4
+Block confirmations0
+ZNe->sent Rs8981to bzb
+Transaction time:2021-09-24 17:09:07.509
+Block :2
+Block Hash:1917487bf576ecb260cb5da2f39c089cfe2faa9a07c41f09328fc6dea0b13415
+Block merkelRoot:Hash@736e9adb
+Block confirmations1
+ONj->sent Rs73702to zwC
+Transaction time:2021-09-24 17:09:07.509
+kAvNhucb->sent Rs9644to fnItyaX
+Transaction time:2021-09-24 17:09:07.508
+HGQbPK->sent Rs9217to beUGZP
+Transaction time:2021-09-24 17:09:07.509
+Block :3
+Block Hash:54ef87d2de1c041edb0190800fbd553e767db2e1a23d45fc938922418a25f8d2
+Block merkelRoot:Hash@6d21714c
+Block confirmations1
+uzaHVoYj->sent Rs1483to UixYUMKgp
+Transaction time:2021-09-24 17:09:07.509
+Huv->sent Rs4624to Dexter
+Transaction time:2021-09-24 17:09:07.508
+Ten->sent Rs35389to ZZr
+Transaction time:2021-09-24 17:09:07.508
+Block :4
+Block Hash:99807ecf9636d11666077757efc71f52c3c8a7bc874207e9413fab10ba4ebf08
+Block merkelRoot:Hash@108c4c35
+Block confirmations1
+AekusT->sent Rs5442to dJZi
+Transaction time:2021-09-24 17:09:07.509
+VZqhA->sent Rs8647to TZpxK
+Transaction time:2021-09-24 17:09:07.509
+BgZLNVTE->sent Rs6970to ZSLNYaOL
+Transaction time:2021-09-24 17:09:07.508
